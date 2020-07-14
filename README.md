@@ -17,7 +17,7 @@
 #### Windows
 
 Необходимо скачать для Windows архив:
- - implant-triangulator.zip
+ - [implant-triangulator_1.0.0.zip](https://github.com/IarcaniusI/implant-triangulator/files/4921376/implant-triangulator_1.0.0.zip)
 
 После разархивации в каталоге должен находиться:
  - ```implant-triangulator.exe``` - выполняемый файл;
@@ -34,7 +34,7 @@
 #### Linux, как бинарный файл
 
 Необходимо скачать для Linux архив:
- - implant-triangulator.tar.gz
+ - [implant-triangulator_amd64_1.0.0.tar.gz](https://github.com/IarcaniusI/implant-triangulator/files/4921388/implant-triangulator_amd64_1.0.0.tar.gz)
 
 После разархивации в каталоге должен находиться:
  - ```implant-triangulator``` - выполняемый файл;
